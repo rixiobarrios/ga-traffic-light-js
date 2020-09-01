@@ -4,5 +4,6 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0ff111d4-eec9-49bb-9355-e686e6af3831/deploy-status)](https://app.netlify.com/sites/ga-traffic-light-js/deploys)
 
+Traffic Light is a debugging exercise from General Assembly created by Jessica Skeete 
 
-Traffic Light is a debugging exercise from General Assembly created by Jessica Skeete https://codepen.io/JessicaSkeete/pen/IBats
+https://codepen.io/JessicaSkeete/pen/IBats
